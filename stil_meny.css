@@ -31,7 +31,7 @@ textarea {
 
 .menu li a {
     display: block;
-    color:white;
+    color:black;
     padding: .6em 1em;
     text-decoration: none;
       /*  width: 100%; 00 Fjernet etter undervisning*/ 
@@ -76,13 +76,13 @@ body{
 
 
 .card {
-    background:white;
+    background:blue;
     margin-bottom: 2em;
 }
 
 
 .card a {
-    color:black;
+    color:white;
     text-decoration: none;
 }
 
